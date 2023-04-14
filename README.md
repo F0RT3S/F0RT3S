@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Felipe</h1>
 <h3 align="center">Estudante de Desenvolvimento Web.</h3>
 
-- 🔭 Atualmente estou estudando Back-End na [Trybe](https://www.betrybe.com/)
+- 🔭 Formado em Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
 
 - 📫 Fale comigo em: **fortes.felipe95@gmail.com**
 
